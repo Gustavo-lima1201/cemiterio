@@ -1,16 +1,97 @@
-*{
-#Titulo{
-    color:rgb(0, 160, 16);
-    padding-left: 40%;
+#Titulo {
+    color: rgb(0, 160, 16);
+    font-size: 30px;
+padding: 1%;
+    
 }
 
-.menu{
-   
-   padding-left: 40%;
+.Luzdocaminho{
+    margin:60px;
+    text-align: center;
 }
 
-#img
-{
- margin-left: 25%;
+body {
+    font-family: Arial, sans-serif;
 }
+
+nav {
+    padding: 10px;
+    text-align: center;
+}
+
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: hsl(0, 0%, 0%);
+    font-size: 18px;
+    padding: 10px;
+    transition: 0.3s;
+}
+
+a:hover {
+    background-color: hsl(120, 0%, 41%);
+    border-radius: 10px;
+}
+
+
+#divimg {
+    width: 80%;
+    height: 300px;
+    height: 100%;
+    margin-top: 10px;
+    margin-right: 150%;
+    display: block;
+    /* object-fit: fill; */
+    margin: auto;
+}
+
+.banner {
+    width: 100%;
+    height: 550px;
+    margin: auto;
+}
+
+.flor{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    
+}
+#florbrancas{
+    height: 100%;
+    display: block;
+    margin: auto;
+}  
+
+.introducao{
+    font-size: 18px;
+    text-align: 100%;
+
+}
+
+#nossosseviços{
+    font-size: 18px;
+    text-align: center;
+}
+
+.serviços{
+    font-size: 18px;
+}
+
+#Comofunciona{
+    font-size: 18px;
+}
+
+#funcionamento{
+    font-size: 18px;
+}
+
+#serviçodeatendimento{
+    font-size: 18px;
+    justify-content: center;
 }
