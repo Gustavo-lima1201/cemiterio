@@ -46,7 +46,6 @@ a:hover {
     margin-top: 10px;
     margin-right: 150%;
     display: block;
-    /* object-fit: fill; */
     margin: auto;
 }
 
@@ -70,9 +69,11 @@ a:hover {
 
 .introducao{
     font-size: 18px;
-    text-align: 100%;
-
-}
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    ler
+}    
 
 #nossosseviços{
     font-size: 18px;
