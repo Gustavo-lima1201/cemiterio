@@ -1,8 +1,6 @@
 #Titulo {
     color: rgb(0, 160, 16);
     font-size: 30px;
-padding: 1%;
-    
 }
 
 .Luzdocaminho{
@@ -69,10 +67,9 @@ a:hover {
 
 .introducao{
     font-size: 18px;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    ler
+    width: 100%;
+    height: 2000px;
+    margin: auto;
 }    
 
 #nossosseviços{

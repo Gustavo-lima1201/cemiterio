@@ -1,0 +1,19 @@
+#Quemsomos{
+    color: rgb(0, 160, 16);
+    font-size: 30px;
+    
+}
+
+#texto1{
+    width: 100%;
+    height: 100px;
+    margin: auto;
+}
+#vídeo{
+    display: flex;
+    Flex-direction: column; 
+    align-items: right;  
+    gap: 15px;
+    margin-left: 1100px;
+    padding: 10px;
+}
