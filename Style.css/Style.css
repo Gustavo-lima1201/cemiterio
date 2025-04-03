@@ -1,7 +1,9 @@
 #Titulo {
     color: rgb(0, 160, 16);
     font-size: 30px;
+
 }
+
 
 .Luzdocaminho{
     
@@ -59,15 +61,21 @@ a:hover {
 
 .flor{
     width: 100%;
-    height: auto;
-    margin: auto;
+    height: 550px;
+   
     
 }
 #florbrancas{
-    height: 100%;
+    width: 80%;
+    height: 100px;
+    height: 50%;
+    margin-top: 10px;
+    margin-right: 150%;
     display: block;
     margin: auto;
-}  
+    justify-content: center;
+    align-items: center;
+}
 
 .introducao{
     font-size: 18px;
