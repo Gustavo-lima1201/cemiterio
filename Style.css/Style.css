@@ -74,35 +74,83 @@ a:hover {
     width: 60%;
     height: 100px;
     height: 50%;
-    margin-top: 10px;
-    margin-right: 150%;
-    display: block;
-    margin: auto;
-    justify-content: center;
-    align-items: center;
+    margin-top: 50px;
+margin-left: 250px;
 }
 
-.introducao{
+.titulo1 {
     font-size: 18px;
-    width: 100%;
-    height: 2000px;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-}
-  
-
-#nossosseviços{
-    font-size: 18px;
-    justify-content: center;
-    align-items: center;
+    width: auto;
+    height: auto;
+    margin-left: 250px;
+    margin-right: 250px;
 }
 
-.serviços{
+.texto1 {
+    margin-left: 250px;
+    margin-right: 250px;
     font-size: 18px;
-    justify-content: center;
-    align-items: center;
 }
+
+.titulo2 {
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    margin-left: 250px;
+    margin-right: 250px;
+    
+}
+
+.servicos {
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    margin-left: 250px;
+    margin-right: 250px;
+} 
+.servicos2 {
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.servicos3 {
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.servicos4 {
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.servicos5 {
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.servicos6 {
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.titulo3{
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
 
 
 #Comofunciona{
