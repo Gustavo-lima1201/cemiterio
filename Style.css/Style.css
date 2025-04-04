@@ -3,6 +3,11 @@
     font-size: 30px;
 
 }
+.lotus{
+color: rgb(0, 160, 16);
+font-size: 23px;
+
+}
 
 
 .Luzdocaminho{
@@ -66,7 +71,7 @@ a:hover {
     
 }
 #florbrancas{
-    width: 80%;
+    width: 60%;
     height: 100px;
     height: 50%;
     margin-top: 10px;
@@ -118,4 +123,16 @@ a:hover {
     font-size: 18px;
     justify-content: center;
     align-items: center;
+}
+.sessao1{
+margin-left: 10px;
+align-items: center;
+text-align: left;
+justify-content: center;
+text-align: left ;
+}
+sessao2{
+    margin-right: 20px;
+    align-items: center;
+    text-align: right;
 }
